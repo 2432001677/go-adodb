@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	_ "github.com/mattn/go-adodb"
+	_ "github.com/2432001677/go-adodb"
 )
 
 func main() {
