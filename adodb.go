@@ -1,6 +1,7 @@
 package adodb
 
 import (
+	"context"
 	"database/sql"
 	"database/sql/driver"
 	"errors"
@@ -14,7 +15,6 @@ import (
 
 	"github.com/go-ole/go-ole"
 	"github.com/go-ole/go-ole/oleutil"
-	"golang.org/x/net/context"
 )
 
 type releaser interface {

@@ -1,12 +1,12 @@
+//go:build go1.8
 // +build go1.8
 
 package adodb
 
 import (
+	"context"
 	"database/sql/driver"
 	"errors"
-
-	"golang.org/x/net/context"
 )
 
 // Ping implement Pinger.
