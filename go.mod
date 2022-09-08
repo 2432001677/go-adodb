@@ -1,4 +1,4 @@
-module github.com/2432001677/go-adodb
+module github.com/2432001677/adodb
 
 go 1.14
 

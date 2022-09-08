@@ -6,7 +6,7 @@ Microsoft ADODB driver conforming to the built-in database/sql interface
 
 This package can be installed with the go get command:
 
-    go get github.com/2432001677/go-adodb
+    go get github.com/2432001677/adodb
 
 ## Documentation
 

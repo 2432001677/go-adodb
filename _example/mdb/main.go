@@ -8,7 +8,7 @@ import (
 
 	"github.com/go-ole/go-ole"
 	"github.com/go-ole/go-ole/oleutil"
-	_ "github.com/2432001677/go-adodb"
+	_ "github.com/2432001677/adodb"
 )
 
 var provider string
